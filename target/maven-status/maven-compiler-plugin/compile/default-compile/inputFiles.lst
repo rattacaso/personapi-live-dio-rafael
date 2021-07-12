@@ -1,0 +1,12 @@
+/home/studioapps/Documentos/AvanadeCodeAnywhere/ApiPessoas/personapi_dio_live_coding-master/src/main/java/one/digitalinnovation/personapi/enums/PhoneType.java
+/home/studioapps/Documentos/AvanadeCodeAnywhere/ApiPessoas/personapi_dio_live_coding-master/src/main/java/one/digitalinnovation/personapi/entity/Phone.java
+/home/studioapps/Documentos/AvanadeCodeAnywhere/ApiPessoas/personapi_dio_live_coding-master/src/main/java/one/digitalinnovation/personapi/service/PersonService.java
+/home/studioapps/Documentos/AvanadeCodeAnywhere/ApiPessoas/personapi_dio_live_coding-master/src/main/java/one/digitalinnovation/personapi/dto/request/PhoneDTO.java
+/home/studioapps/Documentos/AvanadeCodeAnywhere/ApiPessoas/personapi_dio_live_coding-master/src/main/java/one/digitalinnovation/personapi/dto/response/MessageResponseDTO.java
+/home/studioapps/Documentos/AvanadeCodeAnywhere/ApiPessoas/personapi_dio_live_coding-master/src/main/java/one/digitalinnovation/personapi/entity/Person.java
+/home/studioapps/Documentos/AvanadeCodeAnywhere/ApiPessoas/personapi_dio_live_coding-master/src/main/java/one/digitalinnovation/personapi/exception/PersonNotFoundException.java
+/home/studioapps/Documentos/AvanadeCodeAnywhere/ApiPessoas/personapi_dio_live_coding-master/src/main/java/one/digitalinnovation/personapi/repository/PersonRepository.java
+/home/studioapps/Documentos/AvanadeCodeAnywhere/ApiPessoas/personapi_dio_live_coding-master/src/main/java/one/digitalinnovation/personapi/controller/PersonController.java
+/home/studioapps/Documentos/AvanadeCodeAnywhere/ApiPessoas/personapi_dio_live_coding-master/src/main/java/one/digitalinnovation/personapi/PersonapiApplication.java
+/home/studioapps/Documentos/AvanadeCodeAnywhere/ApiPessoas/personapi_dio_live_coding-master/src/main/java/one/digitalinnovation/personapi/dto/request/PersonDTO.java
+/home/studioapps/Documentos/AvanadeCodeAnywhere/ApiPessoas/personapi_dio_live_coding-master/src/main/java/one/digitalinnovation/personapi/mapper/PersonMapper.java
